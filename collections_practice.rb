@@ -46,5 +46,4 @@ def add_s(array)
     array[i] != array[1]
     "#{word}s"
   end
-endeen
-
+end
