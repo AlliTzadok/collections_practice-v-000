@@ -30,3 +30,7 @@ def kesha_maker(array)
       character[2] = "$"
     end
 end
+
+def find_a(a_string)
+  a_string.start_with?("a")
+end
