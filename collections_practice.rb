@@ -40,3 +40,11 @@ end
 def sum_array(nums)
   nums.reduce(:+)
 end
+
+def add_s(array)
+  array.each! do |word|
+    array[i] != array[1]
+    "#{word}s"
+  end
+endeen
+
