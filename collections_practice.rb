@@ -38,5 +38,5 @@ def find_a(array)
 end
 
 def sum_array(nums)
-  nums.reducs(:+)
+  nums.reduce(:+)
 end
